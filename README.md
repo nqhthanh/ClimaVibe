@@ -1,4 +1,3 @@
-```markdown
 # 🌦️ ClimaVibe
 
 Your Personal Weather-Based Travel Planner
