@@ -138,14 +138,7 @@ We are open to feature suggestions and contributions from all developers and use
 
 ---
 
-## ©️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📞 Contact Information
 
-- **Email**: your_email@example.com
-- **GitHub**: [YourUsername](https://github.com/YourUsername)
-- **Website**: [YourWebsite](#)
+- **Email**: thanhnqh2311@gmail.com
+- **GitHub**: [nqhthanh](https://github.com/nqhthanh)
